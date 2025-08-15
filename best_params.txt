@@ -1,0 +1,14 @@
+﻿BEST PARAMS:
+rr_target=
+rr_target_alt=
+atr_min_pips=
+momentum_min_body_atr=
+forbidden_hours_utc=
+
+Metrics:
+return_pct=%
+trades=
+avg_R=
+max_drawdown_pct=%
+final_equity=
+

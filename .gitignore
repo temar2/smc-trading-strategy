@@ -87,3 +87,6 @@ output/
 # Documentation builds
 docs/_build/
 site/
+
+# External repositories
+quant-trading/
